@@ -40,10 +40,10 @@ Fig. 5, above, successfully visualizes type of user (subscriber or occasional), 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="Fig 6">
 Fig. 6, above, shows two frequency maps of individual bike use. This information helps to identify the number of bikes used most frequently by multiple riders (which may therefore be near end-of-life or need maintenance), and which bikes have travelled the longest distances.
 
-The two visualizations in Fig 6, along with those pictured in Fig 7, below, can be found online @ the public tableau page: https://public.tableau.com/app/profile/michelle.werner. Other information visualized from our dataset included start and stop locations, trip duration by age (birth year of user), and the overall numbers for male vs. female vs. unknown-gender of users.
+The two visualizations in Fig 6, along with those pictured in Fig 7, below, can be found online @ the public tableau page: https://public.tableau.com/app/profile/michelle.werner. Other information visualized from our dataset included s (see link).
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" height="600" width="802" alt ="7">
-Fig 7.
+Fig 7. Total trips, trip start and end points, trip duration by user birth year.
 
 
 
@@ -56,7 +56,7 @@ If the population of Des Moines has a similar population, it is likely they will
  - Weather patterns (frequent inclement weather would likely reduce bikeshare use)
  - Work schedules (peak hours seems to coincide with EOB/after work or before work hours, if business runs differently in Des Moines, or people's proximity to work is farther - or remote - use might be less)
 
-Because cycling is somewhat physical, limiting the age group to the most used age group and limiting the bike use data to that age group, calcualting the percentage of bikes to users and quantifying the profit, might lead to the best prediction of how a Des Moines program would perform. Although... people are not necessarily that predicatable. With the right marketing, branding, and perhaps city funding to offset startup costs, Des Moines could affect public mindset and encourage bikesharing for its low-emission healthy commute ideology. Research on public buy-in for environmental and health benefits could also be researched and it is possible that any existing obstacles could be easily overcome.
+Because cycling is somewhat physical, limiting the age group to the most used age group and limiting the bike use data to that age group, calculating the percentage of bikes to users and quantifying the profit, might lead to the best prediction of how a Des Moines program would perform. Although... people are not necessarily that predictable. With the right marketing, branding, and perhaps city funding to offset startup costs, Des Moines could affect public mindset and encourage bikesharing for its low-emission healthy commute ideology. Research on public buy-in for environmental and health benefits could also be researched and it is possible that any existing obstacles could be easily overcome.
 
 
 <br /><br />
