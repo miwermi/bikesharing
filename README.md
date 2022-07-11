@@ -31,20 +31,20 @@ Fig. 3, above, hightlights peak service times for all users. Peak user times are
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" height="300" width="801"  alt ="1">
 Fig. 4, above, separates peak service times by user, by gender.
+<br /> <br />
+ 
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig 6.jpg" alt ="1">
+Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This chart reveals that the majority of users are male subscribers, using bikes most often on evenings, especially Thursday evening.
+<br /> <br />
 
-<br /> 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/5.png" alt ="1">
-Fig. 5
-
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig 6.jpg" alt ="1">
 Fig. 6 
 
-On the next page, heat maps by gender are shown.
 
-<!--img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" alt ="7"-->
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig7.jpg" alt ="7">
 Fig. 7 
 
-This chart reveals that the majority of users are male subscribers, using bikes most often on evenings, especially Thursday evening.
+
 
 ## Summary
 This analysis aimed to identify and visualize: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour and day of the week, and the number of bike trips for each type of rider and gender for each hour and day of the week.
