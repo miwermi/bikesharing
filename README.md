@@ -30,7 +30,7 @@ Fig. 3, above, hightlights peak service times for all users. Peak user times are
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" height="300" width="801"  alt ="1">
-Fig. 4, above, highlights peak service times by user gender.
+Fig. 4, above, separates peak service times by user, by gender.
 
 <br /> 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/5.png" alt ="1">
@@ -47,7 +47,15 @@ Fig. 7
 This chart reveals that the majority of users are male subscribers, using bikes most often on evenings, especially Thursday evening.
 
 ## Summary
-This analysis highlights several key items to research for comparison in cities wishing to start a similar program...
+This analysis aimed to identify and visualize: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour and day of the week, and the number of bike trips for each type of rider and gender for each hour and day of the week.
+
+If the population of Des Moines has a similar population, it is likely they will see similar use rates. More resarch on the population and travel trends of Des Moines could be investigated for further comparison. Things to consider:
+ - Mass transit use (less used transit could mean MORE bikeshare subscribers)
+ - Geography (more difficult terrain might mean LESS bikeshare subscribers or limit it to a younger userbase)
+ - Weather patterns (frequent inclement weather would likely reduce bikeshare use)
+ - Work schedules (peak hours seems to coincide with EOB/after work or before work hours, if business runs differently, or people's proximity to work is farther or remote, use might be less)
+
+
 
 
 
