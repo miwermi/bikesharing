@@ -3,9 +3,9 @@
 # Bikesharing Analysis
 ---
 
-<!--![alt](resources/___.png)-->
+<!--![alt](resources/___.png)-- >
 <img src="https://github.com/miwermi/bikesharing/blob/main/static/images/citibike.png" alt ="graphic: CitiBike">
-(Above: CitiBike Graphic)
+(Above: CitiBike Graphic)-->
 
 ## Project Overview
 
@@ -14,29 +14,32 @@ This analysis of CitiBike's bikesharing program in NYC is provided as research f
 The inspiration for this business proposal is based on the personal experience of the presenters, who feel their most recent trip to NYC was highly enhanced by the bikesharing business there.
 
 ## Results
- 
-The total trips included in our dataset is 2,344,224 trips. Users had the option to be "subscribers" or anonymous users. Gender appears to have been known for all subscribers and use specific to gender was therefore also looked at.
 
-https://github.com/miwermi/bikesharing/blob/main/images/1.png
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig1.jpg" alt ="1">
-Fig. 1 shows frequency of trip durations. Trip duration peaks in frequency at 5 minutes and then drops off steeply with very few trips longer than 45 minutes.
+The total trips included in our dataset is 2,344,224 trips. Users had the option to be "subscribers" or anonymous users. Gender appears to have been known for all subscribers and use specific to gender was therefore also analyzed.
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig2.jpg" alt ="2">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig1.jpg" height="500" width="666" alt ="Fig 1">
+Fig. 1, above, shows frequency of trip durations. Trip duration peaks in frequency at 5 minutes and then drops off steeply with very few trips longer than 45 minutes.
+<br /> 
+
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig2.jpg" height="500" width="748" alt="Fig 2">
 Fig. 2 shows trip duration frequency separated by gender.  Female and unknown gendered riders account for roughly one third of the rides while male riders account for two thirds.
+<br /> 
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig3.jpg" alt ="1">
-Fig. 3
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig3.jpg" alt ="Fig 3">
+Fig. 3 hightlights peak service times for all users. Peak user times are roughly weekdays from 8-9am & 5-7pm, with two exceptions: wednesday evenings are unusally slow, and friday evenings end earlier.
+<br /> 
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" alt ="1">
-Fig. 4
+Fig. 4 highlights peak service times by user gender.
 
+<br /> 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/5.png" alt ="1">
 Fig. 5
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="1">
 Fig. 6 This chart is a heat map of peak use times for each day of the week.
 
-Peak user times are roughly weekdays from 8-9am & 5-7pm, with two exceptions: wednesday evenings are unusally slow, and friday evenings end earlier.
+
 
 On the next page, heat maps by gender are shown.
 
