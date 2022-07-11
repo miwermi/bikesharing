@@ -9,9 +9,9 @@
 
 ## Project Overview
 
-This analysis of CitiBike's bikesharing program in NYC is provided as research for a similar program in Des Moines, Iowa and the feasibility of such a buisness.
+This analysis of CitiBike's bikesharing program in NYC is provided as research for a similar program in Des Moines, Iowa, and aims to determine the feasibility of such a buisness. Looking at data on numbers of bikes, peak times of travel, types of customers, and bike use/maintenance/lifecycle will be useful in comparing population needs, potential differences in use, and budget requirements.
 
-
+The ispiration for this business proposal is based on the personal experience of the presenters, who feel their most recent trip to NYC was highly enhanced by the bikesharing business there.
 
 ## Results
 
@@ -38,4 +38,5 @@ Fig. 6
 Fig. 7
 
 ## Summary
+This analysis highlights the following key items to look at in Des Moines:
 
