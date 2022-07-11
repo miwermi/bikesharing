@@ -33,15 +33,15 @@ Fig. 3, above, hightlights peak service times for all users. Peak user times are
 Fig. 4, above, separates peak service times by user, by gender.
 <br /> <br />
  
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig 6.jpg" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig6.jpg" alt ="1">
 Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This chart reveals that the majority of users are male subscribers, using bikes most often on evenings, especially Thursday evening.
 <br /> <br />
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig 6.jpg" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="1">
 Fig. 6 
 
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig7.jpg" alt ="7">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" alt ="7">
 Fig. 7 
 
 
@@ -56,7 +56,7 @@ If the population of Des Moines has a similar population, it is likely they will
  - Work schedules (peak hours seems to coincide with EOB/after work or before work hours, if business runs differently, or people's proximity to work is farther or remote, use might be less)
 
 
-
+<br /><br />
 
 
 Note: Live visualization dashboards can be found at: https://public.tableau.com/app/profile/michelle.werner
