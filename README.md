@@ -19,25 +19,13 @@ https://github.com/miwermi/bikesharing/blob/main/images/1.png
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/1.png" alt ="1">
 Fig. 1
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/2.png" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/2.png" alt ="2">
 Fig. 2
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/3.png" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" alt ="7">
 Fig. 3
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/4.png" alt ="1">
-Fig. 4
-
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/5.png" alt ="1">
-Fig. 5
-
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="1">
-Fig. 6
-
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" alt ="1">
-Fig. 7
-
 ## Summary
-This analysis highlights the following key items to look at in Des Moines:
+This analysis highlights several key items to research for comparison in cities wishing to start a similar program...
 
 https://public.tableau.com/app/profile/michelle.werner/viz/BikesharingChallenge_16575058420010/BikesharingDashboard
