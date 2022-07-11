@@ -9,38 +9,38 @@
 
 ## Project Overview
 
-This analysis of CitiBike's bikesharing program in NYC is provided as research for a similar program in Des Moines, Iowa, and aims to determine the feasibility of such a buisness. Looking at data on numbers of bikes, numbers of trips, peak times of travel, types of customers, trip duration, and bike use/lifecycle will be useful in comparing the potential population needs of another program in another city and perhaps identify potential differences in customer use as well as highlight budget requirements.
+This analysis of CitiBike's bikesharing program in NYC is provided as research for a similar program in Des Moines, Iowa, and aims to determine the feasibility of such a business. Looking at data on numbers of bikes, numbers of trips, peak times of travel, types of customers, trip duration, and bike use/lifecycle will be useful in comparing the potential population needs of another program in another city and perhaps identify potential differences in customer use as well as highlight budget requirements.
 
 The inspiration for this business proposal is based on the personal experience of the presenters, who feel their most recent trip to NYC was highly enhanced by the bikesharing business there.
 
 ## Results
 
-The total trips included in the dataset used for this analysis is 2,344,224 trips. Users had the option to be "subscribers" or anonymous users. Gender appears to have been known for all subscribers and use specific to gender was therefore also analyzed.
+The number of total trips included in the dataset used for this analysis is 2,344,224 trips. All trips took place in 2019. CitiBike users have the option to be "subscribers" or anonymous users. Gender appears to have been known for all subscribers and bikesharing use specific to gender was therefore also analyzed.
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig1.jpg" height="500" width="666" alt ="Fig 1">
 Fig. 1, above, shows frequency of trip durations. Trip duration peaks in frequency at 5 minutes and then drops off steeply with very few trips longer than 45 minutes.
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig2.jpg" height="500" width="748" alt="Fig 2">
-Fig. 2, above, shows trip duration frequency separated by gender.  Female and unknown-gendered riders account for roughly one third of the rides while male riders account for two thirds.
+Fig. 2, above, shows trip duration frequency separated by gender.  Female and unknown-gendered riders account for roughly one third of the rides while male riders account for two thirds. Trip durations appear to be similar no matter the gender of the user despite the far more frequent use of the CitiBike bikesharing service by males.
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig3.jpg" height="500" width="476" alt="Fig 3">
-Fig. 3, above, hightlights peak service times for all users. Peak user times are weekdays from 8-9am & 5-7pm, with two exceptions: wednesday evenings are unusally slow, and friday evenings end earlier.
+Fig. 3, above, highlights peak service times for all users. Peak user times are weekdays from 8-9am & 5-7pm, with two exceptions: Wednesday evenings are unusually slow, and Friday evenings end earlier.
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" height="300" width="801"  alt ="Fig 4">
-Fig. 4, above, separates peak service times by user, by gender.
+Fig. 4, above, separates peak service times by user, by gender.  Again use seems to be consistent among genders with male users having more frequency.
 <br /> <br />
  
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig5.jpg" alt ="Fig 5">
-Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This chart reveals that the majority of users are male subscribers, using bikes most often on evenings, especially Thursday evening.
+Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This visualization appears more dramatic, but simply shows more clearly what we have also viewed in previous figures above: the majority of users are male subscribers, using bikes most often during commute hours, especially evenings, and most especially - Thursday evening.
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="Fig 6">
 Fig. 6, above, shows two frequency maps of individual bike use. This information helps to identify the number of bikes used most frequently by multiple riders (which may therefore be near end-of-life or need maintenance), and which bikes have travelled the longest distances.
 
-The two visualizations in Fig 6, along with those pictured in Fig 7, below, can be found online @ the public tableau page: https://public.tableau.com/app/profile/michelle.werner 
+The two visualizations in Fig 6, along with those pictured in Fig 7, below, can be found online @ the public tableau page: https://public.tableau.com/app/profile/michelle.werner. Other information visualized from our dataset included start and stop locations, trip duration by age (birth year of user), and the overall numbers for male vs. female vs. unknown-gender of users.
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" height="600" width="802" alt ="7">
 Fig 7.
@@ -50,11 +50,13 @@ Fig 7.
 ## Summary
 This analysis aimed to identify and visualize: the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour and day of the week, and the number of bike trips for each type of rider and gender for each hour and day of the week.
 
-If the population of Des Moines has a similar population, it is likely they will see similar use rates. More resarch on the population and travel trends of Des Moines could be investigated for further comparison. Things to consider:
- - Mass transit use (less used transit could mean MORE bikeshare subscribers)
+If the population of Des Moines has a similar population, it is likely they will see similar use rates. More research on the population and travel trends of Des Moines should be investigated for further comparison. Things to consider:
+ - Mass transit use (Does Des Moines have high or low (or null) public transportation use? Less used transit could mean MORE bikeshare subscribers)
  - Geography (more difficult terrain might mean LESS bikeshare subscribers or limit it to a younger userbase)
  - Weather patterns (frequent inclement weather would likely reduce bikeshare use)
- - Work schedules (peak hours seems to coincide with EOB/after work or before work hours, if business runs differently, or people's proximity to work is farther or remote, use might be less)
+ - Work schedules (peak hours seems to coincide with EOB/after work or before work hours, if business runs differently in Des Moines, or people's proximity to work is farther - or remote - use might be less)
+
+Because cycling is somewhat physical, limiting the age group to the most used age group and limiting the bike use data to that age group, calcualting the percentage of bikes to users and quantifying the profit, might lead to the best prediction of how a Des Moines program would perform. Although... people are not necessarily that predicatable. With the right marketing, branding, and perhaps city funding to offset startup costs, Des Moines could affect public mindset and encourage bikesharing for its low-emission healthy commute ideology. Research on public buy-in for environmental and health benefits could also be researched and it is possible that any existing obstacles could be easily overcome.
 
 
 <br /><br />
