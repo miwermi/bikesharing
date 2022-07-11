@@ -42,7 +42,8 @@ Fig. 6, above, shows two frequency maps of individual bike use. This information
 
 The two visualizations in Fig 6, along with those pictured in Fig 7, below, can be found online @ tableau public: https://public.tableau.com/app/profile/michelle.werner. Other information visualized from our dataset included start and end trip points, trip duration by user age (birth year) and total male vs female vs. unknown-gendered users (see link).
 <br /> <br />
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" height="600" width="802" alt ="7">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" height="600" width="802" alt ="7"><br />
+
 Fig 7. Total trips, trip start and end points, trip duration by user birth year.
 
 
