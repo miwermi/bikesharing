@@ -18,16 +18,16 @@ The inspiration for this business proposal is based on the personal experience o
 The total trips included in our dataset is 2,344,224 trips. Users had the option to be "subscribers" or anonymous users. Gender appears to have been known for all subscribers and use specific to gender was therefore also looked at.
 
 https://github.com/miwermi/bikesharing/blob/main/images/1.png
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/1.jpg" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig1.jpg" alt ="1">
 Fig. 1 shows frequency of trip durations. Trip duration peaks in frequency at 5 minutes and then drops off steeply with very few trips longer than 45 minutes.
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/2.jpg" alt ="2">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig2.jpg" alt ="2">
 Fig. 2 shows trip duration frequency separated by gender.  Female and unknown gendered riders account for roughly one third of the rides while male riders account for two thirds.
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/3.png" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig3.jpg" alt ="1">
 Fig. 3
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/4.png" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" alt ="1">
 Fig. 4
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/5.png" alt ="1">
