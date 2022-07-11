@@ -22,7 +22,7 @@ Fig. 1, above, shows frequency of trip durations. Trip duration peaks in frequen
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig2.jpg" height="500" width="748" alt="Fig 2">
-Fig. 2, above, shows trip duration frequency separated by gender.  Female and unknown-gendered riders account for roughly one third of the rides while male riders account for two thirds. Trip durations appear to be similar no matter the gender of the user despite the far more frequent use of the CitiBike bikesharing service by males.
+Fig. 2, above, shows trip duration frequency separated by gender.  Female and unknown-gendered riders account for roughly one third of the rides while male riders account for two thirds. Trip durations appear to be similar no matter the gender of the user or the far more frequent use of the CitiBike bikesharing service by males.
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig3.jpg" height="500" width="476" alt="Fig 3">
@@ -34,7 +34,7 @@ Fig. 4, above, separates peak service times by user, by gender.  Again use seems
 <br /> <br />
  
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig5.jpg" alt ="Fig 5">
-Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This visualization appears more dramatic, but simply shows more clearly what we have also viewed in previous figures above: the majority of users are male subscribers, using bikes most often during commute hours, especially evenings, and most especially - Thursday evening.
+Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This visualization appears more dramatic, but simply shows more clearly what we have also viewed in previous figures above; the majority of users are male subscribers and bikesharing is most often used during commute hours, especially evenings, and most especially - Thursday evening.
 <br /> <br />
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="Fig 6">
