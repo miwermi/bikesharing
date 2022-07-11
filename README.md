@@ -40,9 +40,10 @@ Fig. 5, above, successfully visualizes type of user (subscriber or occasional), 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="Fig 6">
 Fig. 6, above, shows two frequency maps of individual bike use. This information helps to identify the number of bikes used most frequently by multiple riders (which may therefore be near end-of-life or need maintenance), and which bikes have travelled the longest distances.
 
+The two visualizations in Fig 6, along with those pictured in Fig 7, below, can be found online @ the public tableau page: https://public.tableau.com/app/profile/michelle.werner 
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" alt ="7">
-Fig. 7 
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" height="600" width="802" alt ="7">
+Fig 7.
 
 
 
