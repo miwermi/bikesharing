@@ -29,16 +29,16 @@ Fig. 2, above, shows trip duration frequency separated by gender.  Female and un
 Fig. 3, above, hightlights peak service times for all users. Peak user times are weekdays from 8-9am & 5-7pm, with two exceptions: wednesday evenings are unusally slow, and friday evenings end earlier.
 <br /> <br />
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" height="300" width="801"  alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig4.jpg" height="300" width="801"  alt ="Fig 4">
 Fig. 4, above, separates peak service times by user, by gender.
 <br /> <br />
  
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig6.jpg" alt ="1">
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/Fig5.jpg" alt ="Fig 5">
 Fig. 5, above, successfully visualizes type of user (subscriber or occasional), gender of user, time used, and frequency of use. This chart reveals that the majority of users are male subscribers, using bikes most often on evenings, especially Thursday evening.
 <br /> <br />
 
-<img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="1">
-Fig. 6 
+<img src="https://github.com/miwermi/bikesharing/blob/main/images/6.png" alt ="Fig 6">
+Fig. 6, above, shows two frequency maps of individual bike use. This information helps to identify the number of bikes used most frequently by multiple riders (which may therefore be near end-of-life or need maintenance), and which bikes have travelled the longest distances.
 
 
 <img src="https://github.com/miwermi/bikesharing/blob/main/images/7.png" alt ="7">
